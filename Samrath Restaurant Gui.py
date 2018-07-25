@@ -3,7 +3,7 @@ import random
 import time;
 root = Tk()
 root.geometry("1600x1800+0+0")
-root.title("Samrath Restaurant Billing System")
+root.title("Samrat Restaurant Billing System")
 
 
 text_Input = StringVar()
